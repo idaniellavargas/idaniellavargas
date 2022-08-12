@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniella Vargas
-- 👀 I’m interested in Data Science and Artificial Intelligence
+- 👀 I’m interested in Bioinformatics and its applications
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on projects that can have a positive impact in my community
 - 📫 You can reach me out by email: idaniellavargas@gmail.com
