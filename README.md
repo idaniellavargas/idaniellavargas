@@ -6,9 +6,9 @@
 ```javascript
 const dani = {
   pronouns: "she" | "her",
-  code: [C/C++, Arduino, Python, HTML, CSS, VisualBasic, VBScript],
-  hobbies: ["Coding", "Drawing", "Baking"],
-  interests: ["AI", "Data Science", "Low-level Programming"]
+  code: [C/C++, Arduino, Python, HTML, VisualBasic, VBScript],
+  hobbies: ["Coding", "Drawing", "Reading"],
+  interests: ["AI", "Low-level Programming"]
 }
 ```
 ⭐️ 
