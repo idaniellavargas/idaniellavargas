@@ -6,7 +6,7 @@
 ```javascript
 const dani = {
   pronouns: "she" | "her",
-  code: [C/C++, Arduino, Python, VisualBasic, VBScript],
+  code: [C/C++, Arduino, Python, HTML, CSS, VisualBasic, VBScript],
   hobbies: ["Coding", "Drawing", "Baking"],
   interests: ["AI", "Data Science", "Low-level Programming"]
 }
