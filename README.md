@@ -11,7 +11,7 @@ const dani = {
   hobbies: ["Coding", "Drawing", "Reading"]
 }
 ```
-⭐️ 
+🌟
 
 <!---
 idaniellavargas/idaniellavargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
