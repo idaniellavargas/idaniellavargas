@@ -7,7 +7,7 @@
 const dani = {
   pronouns: "she" | "her",
   interests: ["AI", "Offensive Cybersecurity", "Low-level Programming"],
-  code: [C/C++, Arduino, Python, VisualBasic, VBScript],
+  code: [C/C++, Arduino, Python, HTML, VisualBasic, VBScript],
   hobbies: ["Coding", "Drawing", "Reading"]
 }
 ```
