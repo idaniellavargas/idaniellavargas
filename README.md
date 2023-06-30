@@ -5,10 +5,9 @@
 
 ```javascript
 const dani = {
-  pronouns: "she" | "her",
-  interests: ["AI", "Offensive Cybersecurity", "Low-level Programming"],
-  code: [C/C++, Arduino, Python, HTML, VisualBasic, VBScript],
-  hobbies: ["Coding", "Drawing", "Reading"]
+  interests: ["Cybersecurity", "Computer Architecture"],
+  code: [C/C++, Python, HTML, CSS, JavaScript, VBScript],
+  hobbies: ["Coding", "Drawing", "Reading", "Baking"]
 }
 ```
 ⭐
