@@ -1,6 +1,6 @@
 <h2> Hey there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="230">
-<p><em>Computer Science student at <a href="https://www.upc.edu.pe/en/">Peruvian University of Applied Sciences </a></br>
+<p><em>CS student at <a href="https://www.upc.edu.pe/en/">Peruvian University of Applied Sciences </a></br>
 </em></p>
 
 ```javascript
